@@ -14,20 +14,12 @@ I am a **Data Analyst** looking for Internships, passionate about turning data i
 - **Data Visualization**: Tableau, Power BI.  
 - **Programming Languages**: Java, Python, R.  
 - **Databases**: MySQL, PostgreSQL.  
-- **Mathematics**: Statistical Modeling, Probability, Data Interpretation.  
-
-### 💼 Projects  
-1. **Data Analysis with SQL & Python**: Analyzed large datasets to derive business insights and automated reporting processes.  
-2. **Interactive Dashboards with Tableau**: Created visualizations to track KPIs and identify trends for better decision-making.  
-
-### 📜 Certifications  
-(Add any certifications related to data analysis or tools here, e.g., "Google Data Analytics Certificate," "Tableau Specialist.")  
+- **Mathematics**: Statistical Modeling, Probability, Data Interpretation.    
 
 ### 🌐 Connect with Me  
 - **Email**: [vaidyaurmilasuman@gmail.com](mailto:vaidyaurmilasuman@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/urmila-suman-vaidya](https://linkedin.com/in/urmila-suman-vaidya)  
 - **GitHub**: [github.com/urmila-sv](https://github.com/urmila-sv)  
-
 
 ---
 
