@@ -6,7 +6,7 @@
 I am a **Data Analyst** looking for Internships, passionate about turning data into actionable insights. With a strong foundation in programming, statistical analysis, and database management, I excel at leveraging tools like **SQL, R, Python**, and **Tableau** to uncover trends, solve complex problems, and drive business decisions. My expertise spans data visualization, exploratory analysis, and statistical modeling, enabling me to create impactful solutions that deliver measurable results.  
 
 ### 🎓 Education  
-- **BS in Computer Science**, University of Missouri, Kansas City (GPA: 3.5)  
+- **BS in Computer Science**, University of Missouri, Kansas City (GPA: 3.0)  
   _(Expected Graduation: December 2025)_  
 
 ### 🛠️ Technical Skills  
